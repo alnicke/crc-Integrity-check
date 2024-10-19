@@ -4,8 +4,8 @@ an multipurposed CRC aka integrity check made in C++.
 i've made the hacked address logging myself.
 you can add and improve it according to your needs.
 # Pictures from it
-![](1.png)
-![](2.png)
+![](1f.png)
+![](2f.png)
 ## Example usage of it.0 (ig_check.hpp)
 ```
 #include <windows.h>
