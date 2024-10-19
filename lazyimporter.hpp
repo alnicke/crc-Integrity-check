@@ -224,7 +224,6 @@ namespace li {
         {
             return ((offset_hash_pair{ offset } << 32) | khash_impl(str, offset));
         }
-
         template<class CharT = char>
         LAZY_IMPORTER_FORCEINLINE unsigned hash(const CharT* str, unsigned offset) noexcept
         {
