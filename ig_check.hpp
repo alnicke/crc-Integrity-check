@@ -1,3 +1,6 @@
+// Integrity check by alnicke.
+// https://github.com/alnicke/crc-Integrity-check/edit/main/ig_check.hpp
+// Not removing this is appreciated.
 #include <windows.h>
 #include <iostream>
 #include <thread>
